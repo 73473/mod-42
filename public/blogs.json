@@ -1,0 +1,44 @@
+[
+    {
+      "ID": 1,
+      "Cover": "https://i.ibb.co/WpWxd9Z/toy-bricks-table-with-word-my-blog.jpg",
+      "Title": "The Mystery of the Sapphire Forest",
+      "Author": "Jane Doe",
+      "Author_img": "https://i.ibb.co/9v2HX61/26985434-v868-bb-09.jpg",
+      "Posted_Date": "March 15, 2024",
+      "Reading_Time": 20,
+      "Hashtags": ["Adventure", "Mystery", "Fantasy"]
+    },
+    {
+      "ID": 2,
+      "Cover": "https://i.ibb.co/hXyD3QM/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "Title": "Secrets of the Starlight Kingdom",
+      "Author": "John Smith",
+      "Author_img": "https://i.ibb.co/9v2HX61/26985434-v868-bb-09.jpg",
+      "Posted_Date": "March 16, 2024",
+      "Reading_Time": 25,
+      "Hashtags": ["Fantasy", "Magic", "Adventure"]
+    },
+    {
+      "ID": 3,
+      "Cover": "https://i.ibb.co/ZgYDpcK/online-blog.jpg",
+      "Title": "The Enigma of Echo Island",
+      "Author": "Emily Johnson",
+      "Author_img": "https://i.ibb.co/9v2HX61/26985434-v868-bb-09.jpg",
+      "Posted_Date": "March 14, 2024",
+      "Reading_Time": 30 ,
+      "Hashtags": ["Mystery", "Adventure", "Suspense"]
+    },
+    {
+      "ID": 4,
+      "Cover": "https://i.ibb.co/2NxMTry/online-message-blog-chat-communication-envelop-graphic-icon-concept.jpg",
+      "Title": "Legends of Luminaria",
+      "Author": "Michael Brown",
+      "Author_img": "https://i.ibb.co/9v2HX61/26985434-v868-bb-09.jpg",
+      "Posted_Date": "March 13, 2024",
+      "Reading_Time": 35,
+      "Hashtags": ["Fantasy", "Adventure", "Legends"]
+    }
+    
+  ]
+  
